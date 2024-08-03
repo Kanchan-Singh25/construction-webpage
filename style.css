@@ -937,8 +937,13 @@ li {
 
     }
 
+    
     .wrap-3 h2 {
-        font-size: 20px;
+        font-size: 2rem;
     }
 
+    .wrap-3{padding: 57px 45px 10px 70px}
+    .wrap-3 small {
+        font-size: 1.2rem;
+    }
 }
