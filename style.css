@@ -175,6 +175,8 @@ html {
     border-radius: 8px;
 }
 
+header { position:sticky; top:0;z-index:7}
+
 .wrap-1 {
     background-color: #ffcb0f;
     line-height: 24px;
@@ -856,6 +858,7 @@ li {
         display: none;
     }
 
+    .wrap-3{padding: 57px 45px 10px 70px}
     .wrap-3 small {
         font-size: 20px;
     }
