@@ -49,6 +49,7 @@ p {
 
 html {
     font-size: 15px;
+    scroll-behavior: smooth;    
 }
 
 :root {
@@ -57,8 +58,6 @@ html {
     --grey: #b7b7b7;
     --white: #ffffff;
     --activeBtn: rgb(40, 40, 40);
-
-
 }
 
 /* ------------------------ */
